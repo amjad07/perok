@@ -239,7 +239,7 @@ class _BodyState extends State<Body> with TickerProviderStateMixin {
 
       return Container(
         padding: EdgeInsets.fromLTRB(10, 10, 10, 0),
-        height: 250,
+        height: 280,
         width: double.maxFinite,
         child: Card(
           color: Color(0xffF7F7F7),
